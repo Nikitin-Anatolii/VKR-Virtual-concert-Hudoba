@@ -781,9 +781,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animationController: {fileID: 2091934117}
-  thresholdEnergy: 0.5
-  thresholdSpectralFlux: 0.3
-  thresholdSpectralCentroid: 0.5
+  triggerData: {fileID: 11400000, guid: eb2aab76a55a8ce43abdab7511750164, type: 2}
+  jsonPath: 
 --- !u!114 &2091934117
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -797,7 +796,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1906086787543512781}
-  triggerData: {fileID: 0}
 --- !u!4 &2091934118
 Transform:
   m_ObjectHideFlags: 0

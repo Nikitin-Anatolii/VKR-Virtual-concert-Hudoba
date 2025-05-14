@@ -4,7 +4,6 @@ using UnityEngine;
 public class AnimationTrigger
 {
     public AnimationTriggerType type;
-    public bool isActive;
 
     [Header("Parameter Ranges")]
     public FloatRange energyRange;
@@ -14,7 +13,6 @@ public class AnimationTrigger
     public AnimationTrigger(AnimationTriggerType type)
     {
         this.type = type;
-        this.isActive = false;
         this.energyRange = new FloatRange(0f, 1f);
         this.spectralFluxRange = new FloatRange(0f, 1f);
         this.spectralCentroidRange = new FloatRange(0f, 1f);

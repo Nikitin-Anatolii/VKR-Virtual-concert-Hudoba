@@ -4,7 +4,6 @@ using System.Collections.Generic;
 public class AnimationController : MonoBehaviour
 {
     [SerializeField] private Animator animator;
-    [SerializeField] private AnimationTriggerData triggerData;
     private List<AnimationTrigger> triggers = new List<AnimationTrigger>();
 
     private void Awake()
@@ -12,70 +11,102 @@ public class AnimationController : MonoBehaviour
         if (animator == null)
         {
             animator = GetComponent<Animator>();
+            if (animator == null)
+            {
+                Debug.LogError("AnimationController: No Animator component found!");
+            }
+            else
+            {
+                Debug.Log("AnimationController: Animator component found automatically");
+            }
         }
+    }
 
+    public void SetTriggerData(AnimationTriggerData triggerData)
+    {
         if (triggerData != null)
         {
             triggers = new List<AnimationTrigger>(triggerData.Triggers);
+            Debug.Log($"AnimationController: Loaded {triggers.Count} triggers from triggerData");
+            
+            // Проверяем, что все триггеры имеют уникальные типы
+            var types = new HashSet<AnimationTriggerType>();
+            foreach (var trigger in triggers)
+            {
+                if (!types.Add(trigger.type))
+                {
+                    Debug.LogWarning($"AnimationController: Duplicate trigger type found: {trigger.type}");
+                }
+            }
         }
-    }
-
-    public void SetTriggerData(AnimationTriggerData newTriggerData)
-    {
-        triggerData = newTriggerData;
-        triggers = new List<AnimationTrigger>(triggerData.Triggers);
-    }
-
-    public AnimationTrigger GetTrigger(AnimationTriggerType type)
-    {
-        return triggers.Find(t => t.type == type);
+        else
+        {
+            Debug.LogWarning("AnimationController: Attempting to set null trigger data!");
+            triggers.Clear();
+        }
     }
 
     public void SetTrigger(AnimationTriggerType type)
     {
-        AnimationTrigger trigger = GetTrigger(type);
-        if (trigger != null)
+        if (animator == null)
         {
-            trigger.isActive = true;
-            animator.SetTrigger(type.ToString());
+            Debug.LogError("Animator is not assigned!");
+            return;
         }
-        else
-        {
-            Debug.LogWarning($"Trigger {type} not found!");
-        }
+
+        string triggerName = type.ToString();
+        animator.SetTrigger(triggerName);
+        Debug.Log($"Set trigger: {triggerName}");
     }
 
     public void ResetTrigger(AnimationTriggerType type)
     {
-        AnimationTrigger trigger = GetTrigger(type);
-        if (trigger != null)
+        if (animator == null)
         {
-            trigger.isActive = false;
-            animator.ResetTrigger(type.ToString());
+            Debug.LogError("AnimationController: Cannot reset trigger - Animator is null!");
+            return;
         }
-        else
-        {
-            Debug.LogWarning($"Trigger {type} not found!");
-        }
+
+        string triggerName = type.ToString();
+        animator.ResetTrigger(triggerName);
+        Debug.Log($"AnimationController: Reset trigger {triggerName}");
     }
 
     public void ResetAllTriggers()
     {
+        if (animator == null)
+        {
+            Debug.LogError("AnimationController: Cannot reset triggers - Animator is null!");
+            return;
+        }
+
         foreach (var trigger in triggers)
         {
-            trigger.isActive = false;
-            animator.ResetTrigger(trigger.type.ToString());
+            string triggerName = trigger.type.ToString();
+            animator.ResetTrigger(triggerName);
         }
+        Debug.Log("AnimationController: Reset all triggers");
     }
 
     public bool IsTriggerActive(AnimationTriggerType type)
     {
-        AnimationTrigger trigger = GetTrigger(type);
-        return trigger != null && trigger.isActive;
+        if (animator == null) return false;
+        
+        string triggerName = type.ToString();
+        return animator.GetBool(triggerName);
     }
 
     public List<AnimationTriggerType> GetAllTriggerTypes()
     {
         return triggers.ConvertAll(t => t.type);
+    }
+
+    public bool IsAnimationPlaying(AnimationTriggerType type)
+    {
+        if (animator == null) return false;
+        
+        string animationName = type.ToString();
+        AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
+        return stateInfo.IsName(animationName);
     }
 } 
