@@ -1,0 +1,945 @@
+{
+  "bpm": 120,
+  "frames": [
+    {
+      "spectral_flux": 0.01766571805479213,
+      "energy": 0.1978890718156554,
+      "spectral_centroid": 0.31927676008274236
+    },
+    {
+      "spectral_flux": 0.023423256431584685,
+      "energy": 0.18706423792796137,
+      "spectral_centroid": 0.35829529661440634
+    },
+    {
+      "spectral_flux": 0.016260583781058522,
+      "energy": 0.17353036825746462,
+      "spectral_centroid": 0.33938907373154925
+    },
+    {
+      "spectral_flux": 0.02317215661290069,
+      "energy": 0.2063805505232885,
+      "spectral_centroid": 0.30749258070036534
+    },
+    {
+      "spectral_flux": 0.028429703893417962,
+      "energy": 0.24828603516800726,
+      "spectral_centroid": 0.28256668827011644
+    },
+    {
+      "spectral_flux": 0.032530010421531544,
+      "energy": 0.22360456401886702,
+      "spectral_centroid": 0.3404541724854062
+    },
+    {
+      "spectral_flux": 0.02380052350771139,
+      "energy": 0.19225934820288107,
+      "spectral_centroid": 0.3295104005445263
+    },
+    {
+      "spectral_flux": 0.022129712174577557,
+      "energy": 0.18404491924665833,
+      "spectral_centroid": 0.313461473529992
+    },
+    {
+      "spectral_flux": 0.024865981552873586,
+      "energy": 0.2067560174080425,
+      "spectral_centroid": 0.3194280864383514
+    },
+    {
+      "spectral_flux": 0.02599140496672024,
+      "energy": 0.21168025794336331,
+      "spectral_centroid": 0.34336191929756715
+    },
+    {
+      "spectral_flux": 0.01753016775834679,
+      "energy": 0.17969746794052086,
+      "spectral_centroid": 0.33833685379736267
+    },
+    {
+      "spectral_flux": 0.02333629947358119,
+      "energy": 0.2223234849709949,
+      "spectral_centroid": 0.3071373526885356
+    },
+    {
+      "spectral_flux": 0.030877152179819626,
+      "energy": 0.2453362995015384,
+      "spectral_centroid": 0.28567704846250036
+    },
+    {
+      "spectral_flux": 0.028385228745035303,
+      "energy": 0.2098389171906913,
+      "spectral_centroid": 0.35019851018226617
+    },
+    {
+      "spectral_flux": 0.10302945929488343,
+      "energy": 0.3024572225637752,
+      "spectral_centroid": 0.4829887252262993
+    },
+    {
+      "spectral_flux": 0.1784384341520169,
+      "energy": 0.42246941873694094,
+      "spectral_centroid": 0.5405203399125218
+    },
+    {
+      "spectral_flux": 0.20254292117017758,
+      "energy": 0.4306504720674152,
+      "spectral_centroid": 0.6515894227178154
+    },
+    {
+      "spectral_flux": 0.19822750143537782,
+      "energy": 0.4343165548090465,
+      "spectral_centroid": 0.6377972491042878
+    },
+    {
+      "spectral_flux": 0.09847255211217915,
+      "energy": 0.28501510986173156,
+      "spectral_centroid": 0.623135519394646
+    },
+    {
+      "spectral_flux": 0.23989029011256674,
+      "energy": 0.4339704029082744,
+      "spectral_centroid": 0.6351753640534995
+    },
+    {
+      "spectral_flux": 0.19196350502357887,
+      "energy": 0.4231420961032799,
+      "spectral_centroid": 0.67514731592674
+    },
+    {
+      "spectral_flux": 0.2175120475047103,
+      "energy": 0.4337161497422205,
+      "spectral_centroid": 0.6733859008222018
+    },
+    {
+      "spectral_flux": 0.10603325777688184,
+      "energy": 0.2855756030943515,
+      "spectral_centroid": 0.5163958291452186
+    },
+    {
+      "spectral_flux": 0.2142500323107823,
+      "energy": 0.43528213267755156,
+      "spectral_centroid": 0.6620732434724623
+    },
+    {
+      "spectral_flux": 0.1856714062306318,
+      "energy": 0.49581493874486277,
+      "spectral_centroid": 0.6586019332614022
+    },
+    {
+      "spectral_flux": 0.1206464177185235,
+      "energy": 0.35580849870949954,
+      "spectral_centroid": 0.652608503400934
+    },
+    {
+      "spectral_flux": 0.0895468811017469,
+      "energy": 0.31239696121517196,
+      "spectral_centroid": 0.5172149857611573
+    },
+    {
+      "spectral_flux": 0.23042404823704163,
+      "energy": 0.43056341760708516,
+      "spectral_centroid": 0.636040787874717
+    },
+    {
+      "spectral_flux": 0.20935780076886445,
+      "energy": 0.4812924452828522,
+      "spectral_centroid": 0.7128653678619276
+    },
+    {
+      "spectral_flux": 0.2583361818296403,
+      "energy": 0.46067179399865643,
+      "spectral_centroid": 0.5767573550797715
+    },
+    {
+      "spectral_flux": 0.19198870326014053,
+      "energy": 0.4226009621583807,
+      "spectral_centroid": 0.5812309980359301
+    },
+    {
+      "spectral_flux": 0.15453556780652428,
+      "energy": 0.39875730114075536,
+      "spectral_centroid": 0.5690737620845973
+    },
+    {
+      "spectral_flux": 0.21392523764945562,
+      "energy": 0.4236476103835597,
+      "spectral_centroid": 0.6235446179768303
+    },
+    {
+      "spectral_flux": 0.2013548825730874,
+      "energy": 0.44575392225936955,
+      "spectral_centroid": 0.7798725568564537
+    },
+    {
+      "spectral_flux": 0.1231617808172868,
+      "energy": 0.3329129619247157,
+      "spectral_centroid": 0.5912367146579478
+    },
+    {
+      "spectral_flux": 0.1825127577158774,
+      "energy": 0.37495780850725824,
+      "spectral_centroid": 0.6110829306980918
+    },
+    {
+      "spectral_flux": 0.12446254196054175,
+      "energy": 0.42123790445238685,
+      "spectral_centroid": 0.6450148705131694
+    },
+    {
+      "spectral_flux": 0.12613265986394273,
+      "energy": 0.3945003950220806,
+      "spectral_centroid": 0.651269425192201
+    },
+    {
+      "spectral_flux": 0.07907540522729331,
+      "energy": 0.30037140624298736,
+      "spectral_centroid": 0.46999781429355886
+    },
+    {
+      "spectral_flux": 0.16238503587157657,
+      "energy": 0.4092589756211891,
+      "spectral_centroid": 0.5453727729584639
+    },
+    {
+      "spectral_flux": 0.11380361833460559,
+      "energy": 0.439790691726763,
+      "spectral_centroid": 0.5678779141640787
+    },
+    {
+      "spectral_flux": 0.10541330116306295,
+      "energy": 0.4036542570129777,
+      "spectral_centroid": 0.5074442511982282
+    },
+    {
+      "spectral_flux": 0.10659978334733583,
+      "energy": 0.31265922880576524,
+      "spectral_centroid": 0.6045921355125687
+    },
+    {
+      "spectral_flux": 0.14409772436099427,
+      "energy": 0.44378622074645996,
+      "spectral_centroid": 0.7464748203199606
+    },
+    {
+      "spectral_flux": 0.15814630642196448,
+      "energy": 0.4483670164755197,
+      "spectral_centroid": 0.6861483679376418
+    },
+    {
+      "spectral_flux": 0.3329604550805001,
+      "energy": 0.45094840919015844,
+      "spectral_centroid": 0.6408812389908514
+    },
+    {
+      "spectral_flux": 0.2263857917143329,
+      "energy": 0.3846351014697386,
+      "spectral_centroid": 0.6554049748399642
+    },
+    {
+      "spectral_flux": 0.15065350904834068,
+      "energy": 0.4319384791400558,
+      "spectral_centroid": 0.6421869138827723
+    },
+    {
+      "spectral_flux": 0.5159755428594006,
+      "energy": 1.0,
+      "spectral_centroid": 0.5349095800593578
+    },
+    {
+      "spectral_flux": 0.5606924830164929,
+      "energy": 0.8043386888686411,
+      "spectral_centroid": 0.639301333810022
+    },
+    {
+      "spectral_flux": 0.4655689834853992,
+      "energy": 0.930831811779993,
+      "spectral_centroid": 0.49384843260778366
+    },
+    {
+      "spectral_flux": 0.1726485436914815,
+      "energy": 0.6498755805114841,
+      "spectral_centroid": 0.5909772565513007
+    },
+    {
+      "spectral_flux": 0.4324215988780194,
+      "energy": 0.7882994388478036,
+      "spectral_centroid": 0.4995530163287011
+    },
+    {
+      "spectral_flux": 0.5028956234436741,
+      "energy": 0.7090649196883422,
+      "spectral_centroid": 0.5900578266457188
+    },
+    {
+      "spectral_flux": 0.441702618933242,
+      "energy": 0.75158340095133,
+      "spectral_centroid": 0.4782436439701164
+    },
+    {
+      "spectral_flux": 0.19519385286845317,
+      "energy": 0.6211579383053161,
+      "spectral_centroid": 0.5800263073961229
+    },
+    {
+      "spectral_flux": 0.4179368386462833,
+      "energy": 0.8953215707702182,
+      "spectral_centroid": 0.6244936917918
+    },
+    {
+      "spectral_flux": 0.5731537326848639,
+      "energy": 0.7433809758220841,
+      "spectral_centroid": 0.6173560401469748
+    },
+    {
+      "spectral_flux": 0.42961334323316225,
+      "energy": 0.8935556902770426,
+      "spectral_centroid": 0.38651448617299144
+    },
+    {
+      "spectral_flux": 0.21083981879250746,
+      "energy": 0.7099144486895169,
+      "spectral_centroid": 0.5934433061030571
+    },
+    {
+      "spectral_flux": 0.43004433915789964,
+      "energy": 0.7794238732965786,
+      "spectral_centroid": 0.3820908307088871
+    },
+    {
+      "spectral_flux": 0.5291647763641724,
+      "energy": 0.7095648060616121,
+      "spectral_centroid": 0.6456292785611574
+    },
+    {
+      "spectral_flux": 0.1353768737993014,
+      "energy": 0.4032554592478979,
+      "spectral_centroid": 0.7228384419881785
+    },
+    {
+      "spectral_flux": 0.15490708963254468,
+      "energy": 0.41558196476645254,
+      "spectral_centroid": 0.7585125859196088
+    },
+    {
+      "spectral_flux": 0.09395555517992966,
+      "energy": 0.22468401795516055,
+      "spectral_centroid": 0.486209706465647
+    },
+    {
+      "spectral_flux": 0.0842743109595252,
+      "energy": 0.1990941919287265,
+      "spectral_centroid": 0.42445440437044896
+    },
+    {
+      "spectral_flux": 0.23875522172152683,
+      "energy": 0.31921271280078134,
+      "spectral_centroid": 0.5401288971476963
+    },
+    {
+      "spectral_flux": 0.6770845810721002,
+      "energy": 0.903852765403902,
+      "spectral_centroid": 0.5535263915295219
+    },
+    {
+      "spectral_flux": 0.5668630424889918,
+      "energy": 0.9023875148801149,
+      "spectral_centroid": 0.6098695122907182
+    },
+    {
+      "spectral_flux": 0.7825328537008123,
+      "energy": 0.8468715604761352,
+      "spectral_centroid": 0.7078404029081022
+    },
+    {
+      "spectral_flux": 0.5394708725079831,
+      "energy": 0.87450551000592,
+      "spectral_centroid": 0.6143205499486133
+    },
+    {
+      "spectral_flux": 0.35744239394446553,
+      "energy": 0.7446104241660902,
+      "spectral_centroid": 0.6668814703537075
+    },
+    {
+      "spectral_flux": 0.5029961033683487,
+      "energy": 0.7958966858751645,
+      "spectral_centroid": 0.6830405492759861
+    },
+    {
+      "spectral_flux": 0.6542003390927912,
+      "energy": 0.864040737498032,
+      "spectral_centroid": 0.6538512638121321
+    },
+    {
+      "spectral_flux": 0.5893147929960519,
+      "energy": 0.7906764815465204,
+      "spectral_centroid": 0.6130019865422426
+    },
+    {
+      "spectral_flux": 0.6227269938535084,
+      "energy": 0.8567498908257279,
+      "spectral_centroid": 0.6131979475028038
+    },
+    {
+      "spectral_flux": 0.44875909901540106,
+      "energy": 0.8051762496625037,
+      "spectral_centroid": 0.6569792008526455
+    },
+    {
+      "spectral_flux": 0.6995294798847469,
+      "energy": 0.7862592156977287,
+      "spectral_centroid": 0.6897875016169994
+    },
+    {
+      "spectral_flux": 0.5171085418300465,
+      "energy": 0.8389127026135573,
+      "spectral_centroid": 0.5433728145770597
+    },
+    {
+      "spectral_flux": 0.44218790671066777,
+      "energy": 0.7291974390885925,
+      "spectral_centroid": 0.6667638507526713
+    },
+    {
+      "spectral_flux": 0.5113434496340639,
+      "energy": 0.728953159428632,
+      "spectral_centroid": 0.5991161341125004
+    },
+    {
+      "spectral_flux": 0.5397595131777213,
+      "energy": 0.7765314140508178,
+      "spectral_centroid": 0.7167600227626376
+    },
+    {
+      "spectral_flux": 0.6670660126324377,
+      "energy": 0.7916379987732588,
+      "spectral_centroid": 0.6834883394254729
+    },
+    {
+      "spectral_flux": 0.7936182692188637,
+      "energy": 0.8295718017637433,
+      "spectral_centroid": 0.6546924425576822
+    },
+    {
+      "spectral_flux": 0.6445615701607248,
+      "energy": 0.7038841819480964,
+      "spectral_centroid": 0.5548054571323258
+    },
+    {
+      "spectral_flux": 0.724601603532998,
+      "energy": 0.7157262244081615,
+      "spectral_centroid": 0.43415699260080026
+    },
+    {
+      "spectral_flux": 0.688403719364057,
+      "energy": 0.7435673379073732,
+      "spectral_centroid": 0.3458041661431028
+    },
+    {
+      "spectral_flux": 0.11826553216519248,
+      "energy": 0.5151880112757611,
+      "spectral_centroid": 0.4801222937319108
+    },
+    {
+      "spectral_flux": 0.6194797776239103,
+      "energy": 0.7021512852643584,
+      "spectral_centroid": 0.39102892809731504
+    },
+    {
+      "spectral_flux": 0.779669054116978,
+      "energy": 0.6408810452804301,
+      "spectral_centroid": 0.4549463137418722
+    },
+    {
+      "spectral_flux": 0.7021567742807008,
+      "energy": 0.6676563471748975,
+      "spectral_centroid": 0.37653156084453204
+    },
+    {
+      "spectral_flux": 0.13041892511731004,
+      "energy": 0.5154497089517204,
+      "spectral_centroid": 0.5850471278434655
+    },
+    {
+      "spectral_flux": 0.7220937442569236,
+      "energy": 0.7976262343104282,
+      "spectral_centroid": 0.5616788705731152
+    },
+    {
+      "spectral_flux": 0.7918702176390299,
+      "energy": 0.7863340882327589,
+      "spectral_centroid": 0.430245450604182
+    },
+    {
+      "spectral_flux": 0.8195436896729175,
+      "energy": 0.7933941907176579,
+      "spectral_centroid": 0.3514279757007653
+    },
+    {
+      "spectral_flux": 0.12431756949739727,
+      "energy": 0.5396705109783368,
+      "spectral_centroid": 0.4981108951053922
+    },
+    {
+      "spectral_flux": 0.6870305980673631,
+      "energy": 0.7137517551589742,
+      "spectral_centroid": 0.3868999121396477
+    },
+    {
+      "spectral_flux": 0.7864727518895025,
+      "energy": 0.6389406284306189,
+      "spectral_centroid": 0.45926540796649534
+    },
+    {
+      "spectral_flux": 0.7576101456830221,
+      "energy": 0.6972453176169875,
+      "spectral_centroid": 0.5394927387448937
+    },
+    {
+      "spectral_flux": 0.35087426229510477,
+      "energy": 0.6277923857980123,
+      "spectral_centroid": 0.7386658886023556
+    },
+    {
+      "spectral_flux": 0.24191955679484273,
+      "energy": 0.3719767631555888,
+      "spectral_centroid": 0.7682514335144257
+    },
+    {
+      "spectral_flux": 0.18513871307510585,
+      "energy": 0.37749660010301206,
+      "spectral_centroid": 0.8206375143027219
+    },
+    {
+      "spectral_flux": 0.13288594377325663,
+      "energy": 0.2984497075269338,
+      "spectral_centroid": 0.7752209662493755
+    },
+    {
+      "spectral_flux": 0.1695312488044315,
+      "energy": 0.43664009677150484,
+      "spectral_centroid": 0.8160933024254561
+    },
+    {
+      "spectral_flux": 0.16412414894651547,
+      "energy": 0.39300077152193563,
+      "spectral_centroid": 0.697172843223423
+    },
+    {
+      "spectral_flux": 0.2533881107172604,
+      "energy": 0.41195748579309677,
+      "spectral_centroid": 0.7100091779904367
+    },
+    {
+      "spectral_flux": 0.1359965521717228,
+      "energy": 0.29085173029644823,
+      "spectral_centroid": 0.5009262837036748
+    },
+    {
+      "spectral_flux": 0.2244575614395264,
+      "energy": 0.43254910705062766,
+      "spectral_centroid": 0.7691706126736287
+    },
+    {
+      "spectral_flux": 0.16212860164359977,
+      "energy": 0.40487679514204766,
+      "spectral_centroid": 0.7980390072498585
+    },
+    {
+      "spectral_flux": 0.13871454456822013,
+      "energy": 0.39362333202015504,
+      "spectral_centroid": 0.6778043326497541
+    },
+    {
+      "spectral_flux": 0.17220791365835544,
+      "energy": 0.36115807366004166,
+      "spectral_centroid": 0.7151186689550917
+    },
+    {
+      "spectral_flux": 0.3158426965041612,
+      "energy": 0.4533807692280293,
+      "spectral_centroid": 0.6472737821424229
+    },
+    {
+      "spectral_flux": 0.17495979064004286,
+      "energy": 0.4355399478100674,
+      "spectral_centroid": 0.781081289718099
+    },
+    {
+      "spectral_flux": 0.20849523504650735,
+      "energy": 0.38761789218497433,
+      "spectral_centroid": 0.7408809294647642
+    },
+    {
+      "spectral_flux": 0.16026925350476343,
+      "energy": 0.30429551783512226,
+      "spectral_centroid": 0.5980021165780848
+    },
+    {
+      "spectral_flux": 0.29689275310541746,
+      "energy": 0.4477738422006114,
+      "spectral_centroid": 0.5985826028015486
+    },
+    {
+      "spectral_flux": 0.9198360100851377,
+      "energy": 0.9180265423492878,
+      "spectral_centroid": 0.6083190449858585
+    },
+    {
+      "spectral_flux": 1.0,
+      "energy": 0.8897899793334706,
+      "spectral_centroid": 0.5219609149541465
+    },
+    {
+      "spectral_flux": 0.9482937750582464,
+      "energy": 0.87691781617261,
+      "spectral_centroid": 0.5184502348095921
+    },
+    {
+      "spectral_flux": 0.3519971402349164,
+      "energy": 0.6480396717576666,
+      "spectral_centroid": 0.684180430924878
+    },
+    {
+      "spectral_flux": 0.8258508656715919,
+      "energy": 0.8000968142484358,
+      "spectral_centroid": 0.5370948829337949
+    },
+    {
+      "spectral_flux": 0.8893729593602006,
+      "energy": 0.7138168679058986,
+      "spectral_centroid": 0.6145558947158245
+    },
+    {
+      "spectral_flux": 0.852334716610441,
+      "energy": 0.7339335009357286,
+      "spectral_centroid": 0.6108405900767137
+    },
+    {
+      "spectral_flux": 0.37664400668725373,
+      "energy": 0.6315899407217541,
+      "spectral_centroid": 0.6344269004353966
+    },
+    {
+      "spectral_flux": 0.8430413843733788,
+      "energy": 0.8230320313396057,
+      "spectral_centroid": 0.5723433487957968
+    },
+    {
+      "spectral_flux": 0.9207314604626626,
+      "energy": 0.8299765836324792,
+      "spectral_centroid": 0.6575195988150342
+    },
+    {
+      "spectral_flux": 0.9312891216099938,
+      "energy": 0.8368189787272239,
+      "spectral_centroid": 0.5097060148466357
+    },
+    {
+      "spectral_flux": 0.2925514917008243,
+      "energy": 0.6460230288255698,
+      "spectral_centroid": 0.5483027623235226
+    },
+    {
+      "spectral_flux": 0.820998544380129,
+      "energy": 0.7794917643773434,
+      "spectral_centroid": 0.5663081324698847
+    },
+    {
+      "spectral_flux": 0.9590695774612226,
+      "energy": 0.7256032724498279,
+      "spectral_centroid": 0.5200330216973966
+    },
+    {
+      "spectral_flux": 0.325745864324208,
+      "energy": 0.49549247392106255,
+      "spectral_centroid": 0.6536676594161569
+    },
+    {
+      "spectral_flux": 0.5917628999320117,
+      "energy": 0.8386053049078911,
+      "spectral_centroid": 0.5577432348367186
+    },
+    {
+      "spectral_flux": 0.5669281509760082,
+      "energy": 0.8482909328718925,
+      "spectral_centroid": 0.6225305102483825
+    },
+    {
+      "spectral_flux": 0.7903252822793758,
+      "energy": 0.8564006043944693,
+      "spectral_centroid": 0.7063219949832855
+    },
+    {
+      "spectral_flux": 0.5243345057034617,
+      "energy": 0.8911880511697854,
+      "spectral_centroid": 0.6122432141040267
+    },
+    {
+      "spectral_flux": 0.3757411829126949,
+      "energy": 0.7491101139188114,
+      "spectral_centroid": 0.6577967002015465
+    },
+    {
+      "spectral_flux": 0.48293378564254913,
+      "energy": 0.740003091786889,
+      "spectral_centroid": 0.7040603647164783
+    },
+    {
+      "spectral_flux": 0.630237216094651,
+      "energy": 0.8253989580535706,
+      "spectral_centroid": 0.668170544659775
+    },
+    {
+      "spectral_flux": 0.5952169190803065,
+      "energy": 0.7990494536299644,
+      "spectral_centroid": 0.6119883740787048
+    },
+    {
+      "spectral_flux": 0.6093677896350349,
+      "energy": 0.8743800575471301,
+      "spectral_centroid": 0.6122078249612434
+    },
+    {
+      "spectral_flux": 0.4462299890525922,
+      "energy": 0.7865035665970184,
+      "spectral_centroid": 0.6770671961540989
+    },
+    {
+      "spectral_flux": 0.7288197431191946,
+      "energy": 0.8002476279084346,
+      "spectral_centroid": 0.693003853930682
+    },
+    {
+      "spectral_flux": 0.5273688672639675,
+      "energy": 0.832868757920923,
+      "spectral_centroid": 0.5513004982560022
+    },
+    {
+      "spectral_flux": 0.4410570293306778,
+      "energy": 0.7320472259761391,
+      "spectral_centroid": 0.6635124749184363
+    },
+    {
+      "spectral_flux": 0.4972464535699276,
+      "energy": 0.7195619636123755,
+      "spectral_centroid": 0.6133529024830675
+    },
+    {
+      "spectral_flux": 0.5425705860167281,
+      "energy": 0.7676680304248927,
+      "spectral_centroid": 0.7195588879474114
+    },
+    {
+      "spectral_flux": 0.6977866453311163,
+      "energy": 0.7962982619740846,
+      "spectral_centroid": 0.6986094392351597
+    },
+    {
+      "spectral_flux": 0.7881142370140914,
+      "energy": 0.8378497405819826,
+      "spectral_centroid": 0.6401507232926598
+    },
+    {
+      "spectral_flux": 0.5517387096249126,
+      "energy": 0.8070151504681492,
+      "spectral_centroid": 0.6108178102672356
+    },
+    {
+      "spectral_flux": 0.7207135973649427,
+      "energy": 0.8102636638814463,
+      "spectral_centroid": 0.7112611179682762
+    },
+    {
+      "spectral_flux": 0.5092762551712903,
+      "energy": 0.8573128240053743,
+      "spectral_centroid": 0.6195203876002778
+    },
+    {
+      "spectral_flux": 0.33850709299926557,
+      "energy": 0.7363099737198114,
+      "spectral_centroid": 0.6835910091684295
+    },
+    {
+      "spectral_flux": 0.4872556744898409,
+      "energy": 0.7465285431058495,
+      "spectral_centroid": 0.7042416909807457
+    },
+    {
+      "spectral_flux": 0.6375242191746442,
+      "energy": 0.8307152642373581,
+      "spectral_centroid": 0.663455451466127
+    },
+    {
+      "spectral_flux": 0.5789009130908821,
+      "energy": 0.8166103757233464,
+      "spectral_centroid": 0.6052464986373226
+    },
+    {
+      "spectral_flux": 0.5844719319121041,
+      "energy": 0.8494918142448737,
+      "spectral_centroid": 0.6138717133744572
+    },
+    {
+      "spectral_flux": 0.4630411603890538,
+      "energy": 0.7878554041086571,
+      "spectral_centroid": 0.6727428117578507
+    },
+    {
+      "spectral_flux": 0.7260636229561952,
+      "energy": 0.7890449584282895,
+      "spectral_centroid": 0.6861714113684142
+    },
+    {
+      "spectral_flux": 0.5526333252782448,
+      "energy": 0.830556329293826,
+      "spectral_centroid": 0.5448990593721261
+    },
+    {
+      "spectral_flux": 0.4428814233939524,
+      "energy": 0.7548501516329122,
+      "spectral_centroid": 0.6546808264825522
+    },
+    {
+      "spectral_flux": 0.4942419681794791,
+      "energy": 0.7291611782700099,
+      "spectral_centroid": 0.6048505305829799
+    },
+    {
+      "spectral_flux": 0.5928730135477127,
+      "energy": 0.7754173734201788,
+      "spectral_centroid": 0.7103684773117197
+    },
+    {
+      "spectral_flux": 0.6630995423902856,
+      "energy": 0.8034360865671833,
+      "spectral_centroid": 0.6826156187952219
+    },
+    {
+      "spectral_flux": 0.7560481680377708,
+      "energy": 0.8342733125361985,
+      "spectral_centroid": 0.6581967731900661
+    },
+    {
+      "spectral_flux": 0.4843039158442199,
+      "energy": 0.7237800442966149,
+      "spectral_centroid": 0.5755725081579124
+    },
+    {
+      "spectral_flux": 0.545658056903983,
+      "energy": 0.7304236104234537,
+      "spectral_centroid": 0.5798316713886333
+    },
+    {
+      "spectral_flux": 0.4451741672895796,
+      "energy": 0.8510029428966909,
+      "spectral_centroid": 0.5296379191598779
+    },
+    {
+      "spectral_flux": 0.2816753137136977,
+      "energy": 0.6929518657224131,
+      "spectral_centroid": 0.5864760159014811
+    },
+    {
+      "spectral_flux": 0.46073189591044966,
+      "energy": 0.7719022824368695,
+      "spectral_centroid": 0.5886817380025458
+    },
+    {
+      "spectral_flux": 0.49228704412059926,
+      "energy": 0.7580319850340417,
+      "spectral_centroid": 0.5999724371823193
+    },
+    {
+      "spectral_flux": 0.4811082786136845,
+      "energy": 0.7973618651596224,
+      "spectral_centroid": 0.5567668186047638
+    },
+    {
+      "spectral_flux": 0.5419980347810094,
+      "energy": 0.8340986337009045,
+      "spectral_centroid": 0.5739576384299275
+    },
+    {
+      "spectral_flux": 0.44181405461294326,
+      "energy": 0.7793832668789124,
+      "spectral_centroid": 0.5678708141366248
+    },
+    {
+      "spectral_flux": 0.5653824852326856,
+      "energy": 0.7368922839970108,
+      "spectral_centroid": 0.5853359026177165
+    },
+    {
+      "spectral_flux": 0.4820570817791812,
+      "energy": 0.8158186218181844,
+      "spectral_centroid": 0.5474536212453374
+    },
+    {
+      "spectral_flux": 0.28088091713372965,
+      "energy": 0.6674837342801515,
+      "spectral_centroid": 0.5795019748317923
+    },
+    {
+      "spectral_flux": 0.4525447471293487,
+      "energy": 0.7886134618110889,
+      "spectral_centroid": 0.5661172988819376
+    },
+    {
+      "spectral_flux": 0.31880840199983224,
+      "energy": 0.6900513564324484,
+      "spectral_centroid": 0.6333379383481285
+    },
+    {
+      "spectral_flux": 0.6346218135969058,
+      "energy": 0.7764749212627313,
+      "spectral_centroid": 0.6062772950266647
+    },
+    {
+      "spectral_flux": 0.7306253211079629,
+      "energy": 0.7603863023867312,
+      "spectral_centroid": 0.5668225939586222
+    },
+    {
+      "spectral_flux": 0.018023615834258835,
+      "energy": 0.08678720598638331,
+      "spectral_centroid": 0.7148763669188657
+    },
+    {
+      "spectral_flux": 0.0008923392501409989,
+      "energy": 0.03500615151607978,
+      "spectral_centroid": 0.693851983087192
+    },
+    {
+      "spectral_flux": 0.00015763044279518595,
+      "energy": 0.013660077934045204,
+      "spectral_centroid": 0.7075833186128941
+    },
+    {
+      "spectral_flux": 2.5125676676965032e-05,
+      "energy": 0.004629221776224443,
+      "spectral_centroid": 0.8049894871199645
+    },
+    {
+      "spectral_flux": 3.4587317091224345e-06,
+      "energy": 0.0018686383557268227,
+      "spectral_centroid": 0.8270411432117578
+    },
+    {
+      "spectral_flux": 5.526675022979629e-07,
+      "energy": 0.0008300637588657345,
+      "spectral_centroid": 0.8172888386982521
+    },
+    {
+      "spectral_flux": 1.0186063023682407e-07,
+      "energy": 0.0003701483887956742,
+      "spectral_centroid": 0.855851293556673
+    },
+    {
+      "spectral_flux": 9.156778389472971e-09,
+      "energy": 9.886415317764809e-05,
+      "spectral_centroid": 1.0
+    }
+  ]
+}

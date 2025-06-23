@@ -6,28 +6,26 @@ public class FrameAnimationController : MonoBehaviour
 {
     [SerializeField] private AnimationController animationController;
     [SerializeField] private AnimationTriggerData triggerData;
-    [SerializeField] private string jsonPath; // Путь к JSON файлу
-    
+    [SerializeField] private AudioController audioController;
+
+    private int currentSong = 0;
     private List<Frame> frames;
     private int currentFrameIndex = 0;
     private bool isPlaying = false;
     private Coroutine frameProcessingCoroutine;
+    private string jsonPath;
 
-    private void Awake()
+
+
+    public void Load(int number)
     {
-        Debug.Log("FrameAnimationController: Awake called");
+        currentSong = number;
         
-        // Устанавливаем путь по умолчанию, если он не задан
-        if (string.IsNullOrEmpty(jsonPath))
-        {
-            jsonPath = "Assets/audio_analysis.json";
-            Debug.Log($"Using default JSON path: {jsonPath}");
-        }
+        jsonPath = "Assets/Materials/Songs/audio_analysis" + currentSong + ".json";
         
         LoadFrames();
         animationController.SetTriggerData(triggerData);
-        
-        // Запускаем обработку фреймов
+        audioController.PlayTrack(currentSong);
         StartFrameProcessing();
     }
 

@@ -15,41 +15,141 @@ MonoBehaviour:
   triggers:
   - type: 0
     energyRange:
-      min: 0
-      max: 0.41846135
+      min: 0.8880504
+      max: 1
     spectralFluxRange:
-      min: 0.31692314
-      max: 0.6707694
+      min: 0.85714316
+      max: 1
     spectralCentroidRange:
-      min: 0.0153846145
-      max: 0.6030769
+      min: 0.7612495
+      max: 1
   - type: 1
     energyRange:
-      min: 0.3761539
-      max: 0.6007694
+      min: 0.8742671
+      max: 0.9278134
     spectralFluxRange:
-      min: 0
+      min: 0.7639099
       max: 1
     spectralCentroidRange:
-      min: 0
-      max: 1
+      min: 0.7428572
+      max: 0.87969923
   - type: 2
     energyRange:
-      min: 0
-      max: 0
+      min: 0.82264155
+      max: 0.91320765
     spectralFluxRange:
-      min: 0
-      max: 0
+      min: 0.69172937
+      max: 0.9097744
     spectralCentroidRange:
-      min: 0
-      max: 0
+      min: 0.5924812
+      max: 0.7503759
   - type: 3
     energyRange:
-      min: 0.6953847
-      max: 1
+      min: 0.77588785
+      max: 0.84402514
+    spectralFluxRange:
+      min: 0.66165423
+      max: 0.86466163
+    spectralCentroidRange:
+      min: 0.6075188
+      max: 0.7353382
+  - type: 4
+    energyRange:
+      min: 0.7169812
+      max: 0.7949686
+    spectralFluxRange:
+      min: 0.65263164
+      max: 0.89172924
+    spectralCentroidRange:
+      min: 0.6285715
+      max: 0.86165404
+  - type: 5
+    energyRange:
+      min: 0.6679245
+      max: 0.74339616
+    spectralFluxRange:
+      min: 0.5172933
+      max: 0.8165413
+    spectralCentroidRange:
+      min: 0.5894737
+      max: 0.8015038
+  - type: 6
+    energyRange:
+      min: 0.6220126
+      max: 0.6798742
+    spectralFluxRange:
+      min: 0.29473677
+      max: 0.62406003
+    spectralCentroidRange:
+      min: 0.37894738
+      max: 0.70526314
+  - type: 7
+    energyRange:
+      min: 0.57610065
+      max: 0.6415095
+    spectralFluxRange:
+      min: 0.4210527
+      max: 0.68120307
+    spectralCentroidRange:
+      min: 0.26766917
+      max: 0.6781956
+  - type: 8
+    energyRange:
+      min: 0.5182391
+      max: 0.5911951
+    spectralFluxRange:
+      min: 0.29473683
+      max: 0.68421054
+    spectralCentroidRange:
+      min: 0.2857143
+      max: 0.4917293
+  - type: 9
+    energyRange:
+      min: 0.4584906
+      max: 0.5314466
+    spectralFluxRange:
+      min: 0.26165414
+      max: 0.681203
+    spectralCentroidRange:
+      min: 0.2827068
+      max: 0.675188
+  - type: 10
+    energyRange:
+      min: 0.29685542
+      max: 0.43773594
+    spectralFluxRange:
+      min: 0.318797
+      max: 0.6270676
+    spectralCentroidRange:
+      min: 0.3338346
+      max: 0.63609016
+  - type: 11
+    energyRange:
+      min: 0.20188682
+      max: 0.3352201
     spectralFluxRange:
       min: 0
-      max: 1
+      max: 0.30526304
     spectralCentroidRange:
       min: 0
-      max: 1
+      max: 0.3052631
+  - type: 12
+    energyRange:
+      min: 0.08805032
+      max: 0.3095853
+    spectralFluxRange:
+      min: 0.15037599
+      max: 0.37744364
+    spectralCentroidRange:
+      min: 0.18947366
+      max: 0.37443596
+  - type: 13
+    energyRange:
+      min: 0.04511278
+      max: 0.21365672
+    spectralFluxRange:
+      min: 0
+      max: 0.45864674
+    spectralCentroidRange:
+      min: 0
+      max: 0.4857142
