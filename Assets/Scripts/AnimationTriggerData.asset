@@ -16,23 +16,23 @@ MonoBehaviour:
   - type: 0
     energyRange:
       min: 0
-      max: 0.3569229
+      max: 0.41846135
     spectralFluxRange:
-      min: 0
-      max: 1
+      min: 0.31692314
+      max: 0.6707694
     spectralCentroidRange:
-      min: 0
-      max: 1
+      min: 0.0153846145
+      max: 0.6030769
   - type: 1
     energyRange:
-      min: 0.44384617
-      max: 0.6807694
+      min: 0.3761539
+      max: 0.6007694
     spectralFluxRange:
       min: 0
       max: 1
     spectralCentroidRange:
       min: 0
-      max: 0
+      max: 1
   - type: 2
     energyRange:
       min: 0
@@ -45,7 +45,7 @@ MonoBehaviour:
       max: 0
   - type: 3
     energyRange:
-      min: 0.7630769
+      min: 0.6953847
       max: 1
     spectralFluxRange:
       min: 0
